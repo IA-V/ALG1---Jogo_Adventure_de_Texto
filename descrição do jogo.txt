@@ -1,0 +1,64 @@
+""" 
+O Castelo Abandonado está dividido em térreo e 1º andar e contém duas salas
+secretas -> no primeiro andar há uma porta à direita e outra à esquerda; no segundo andar há um
+corredor com uma porta à direita, uma à esquerda e uma no fim deste corredor.
+
+-- A sala à esquerda contém a porta secreta (à direita da entrada) que leva ao tesouro escondido. Ao lado da porta
+secreta, há um "painel" com 3 "slots" onde devem ser colocados pequenos blocos retangulares com números
+esculpidos(os numeros devem ser esculpidos manualmente com algum objeto pontiagudo). Acima deste painel, há um bilhete
+informando o layout do castelo: no TÉRREO (Sala à Direita, Sala à Esquerda e Escadaria ao Norte), no PRIMEIRO andar
+(Sala ao Norte, Sala à Esquerda e Sala à Direita)-- respectivamente: E, D, 1N, 1E e 1D;
+
+-- A sala à direita contém uma chave cujo cabo tem formato de um losango com coloração azul e em uma de suas
+paredes há um número escrito: "7". Além disso, nela se encontra uma sala secreta (ao norte da entrada), que leva à seguinte URL:
+https://www.youtube.com/watch?v=oHg5SJYRHA0 - Rick Roll (clássico);
+
+-- No primeiro andar, a porta à esquerda leva a uma sala que contém uma outra chave, cujo cabo tem formato de
+coração com coloração avermelhada, mas por estar desgastado, o formato lembra mais uma maçã, além de um dos blocos necessários
+para a porta secreta e outro número (15), mas precisa de uma chave para ser aberta e contém um poema pendurado na maçaneta:
+
+                        Diamante
+                        
+                            O amor seria fogo ou ar
+                            em movimento, chama ao vento;
+                            e no entanto é tão duro amar
+                            este amor que o seu elemento
+                            deve ser terra: diamante,
+                            já que dura e fura e tortura
+                            e fica tanto mais brilhante
+                            quanto mais se atrita, e fulgura,
+                            ao que parece, para sempre:
+                            e às vezes volta a ser carvão
+                            a rutilar incandescente
+                            onde é mais funda a escuridão;
+                            e volta indecente esplendor
+                            e loucura e tesão e dor.
+-- A porta à direita está destrancada e leva a uma sala que contém outro dos blocos necessários;
+
+-- A porta ao final do corredor está trancada, mas, pendurado em sua maçaneta há outro poema:
+
+                        Lenta, Descansa a Onda que a Maré Deixa
+                        
+                            Lenta, descansa a onda que a maré deixa. 
+                            Pesada cede. Tudo é sossegado. 
+                            Só o que é de homem se ouve. 
+                            Cresce a vinda da lua. 
+
+                            Nesta hora, Lídia ou Neera ou Cloe, 
+                            Qualquer de vós me é estranha, que me inclino 
+                            Para o segredo dito 
+                            Pelo silêncio incerto. 
+
+                            Tomo nas mãos, como caveira, ou chave 
+                            De supérfluo sepulcro, o meu destino, 
+                            E ignaro o aborreço 
+                            Sem coração que o sinta.
+                            
+-- A porta ao final do corredor leva a uma sala que contém uma faca e um número escrito na parede: "5". Esta sala
+também contém um objeto desconhecido, necessário para abrir a sala secreta da porta à direita no Térreo.
+
+-- Painel da sala à esquerda no térreo:
+                            D 1E 1N
+                            X   X   X
+
+"""
